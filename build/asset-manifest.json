@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/SuperHeroAlmanac/static/css/main.04a1ec62.css",
+    "main.js": "/SuperHeroAlmanac/static/js/main.8c0d9b68.js",
+    "static/js/787.f6b2eaaf.chunk.js": "/SuperHeroAlmanac/static/js/787.f6b2eaaf.chunk.js",
+    "static/media/logo.svg": "/SuperHeroAlmanac/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/SuperHeroAlmanac/index.html",
+    "main.04a1ec62.css.map": "/SuperHeroAlmanac/static/css/main.04a1ec62.css.map",
+    "main.8c0d9b68.js.map": "/SuperHeroAlmanac/static/js/main.8c0d9b68.js.map",
+    "787.f6b2eaaf.chunk.js.map": "/SuperHeroAlmanac/static/js/787.f6b2eaaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04a1ec62.css",
+    "static/js/main.8c0d9b68.js"
+  ]
+}
