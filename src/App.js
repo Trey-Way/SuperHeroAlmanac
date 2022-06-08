@@ -44,7 +44,7 @@ function App() {
         <nav id='mainNav'>
         <h1>
           <Routes>
-            <Route path="/" element={<ApiDisplay addHeroToList={addHeroToList} />}/>
+            <Route path="/SuperHeroAlmanac/" element={<ApiDisplay addHeroToList={addHeroToList} />}/>
             <Route path="/HeroList" element={<HeroList hList={hList}/>}/>
           </Routes>
         </h1>
