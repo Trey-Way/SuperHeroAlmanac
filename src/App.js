@@ -35,7 +35,7 @@ function App() {
       <h1 className='title'>SuperHero Almanac</h1>
       <Navbar bg="light" varient="light" id='NavBar'>
         <Nav >
-          <Nav.Link as={Link} to="/">Home</Nav.Link>
+          <Nav.Link as={Link} to="/SuperHeroAlmanac">Home</Nav.Link>
           <Nav.Link as={Link} to="/HeroList">List of Your Characters</Nav.Link>
         </Nav>
       </Navbar>
